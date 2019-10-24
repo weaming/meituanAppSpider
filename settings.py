@@ -24,7 +24,7 @@ limit = 25
 
 # Data storage path and filename(.csv or .txt file) setting variables:
 savePath = './meituanRestaurantsInfos'
-filename = 'HaikouRestaurants'
+filename = 'SZ'
 
 # MySQL table name and MySQL Database setting variables:
 tableName = 'HaikouMeituan'

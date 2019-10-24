@@ -21,7 +21,7 @@ import json
 
 class MT_spider:
 
-    baseUrl = ("http://api.meituan.com/group/v4/deal/select/city/94/cate/1?"
+    baseUrl = ("http://api.meituan.com/group/v4/deal/select/city/30/cate/1?"
                 "sort=solds&hasGroup=true&mpt_cate1=1&offset={0}&limit={1}")
     modeList = ['txt','csv','mysql']
     tableName = tableName
